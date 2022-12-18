@@ -1,13 +1,13 @@
-package miu.edu.cr;
+package miu.edu.app;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CrApplication {
+public class CRSApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CrApplication.class, args);
+        SpringApplication.run(CRSApplication.class, args);
     }
 
 }
